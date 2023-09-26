@@ -44,11 +44,11 @@ const Contactame = () => {
             </form>
             </div>
             <div className="masContactame">
-                <div data-aos="fade-up"
+                <div 
      data-aos-duration="2000" className="iMas">
                     <a href="https://api.whatsapp.com/send?phone=916628409&text=hola, soy programador junior Full-Stack" target="_blank"><i className="fa-brands fa-whatsapp"></i></a>
                 </div>
-               <div data-aos="fade-up"
+               <div 
      data-aos-duration="2000" className="iMas">
                 <a href="mailto:edwardyq200167@gmail.com "target="_blank"><i className="fa-solid fa-envelope"></i> </a> 
                </div>
